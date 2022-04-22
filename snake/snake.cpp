@@ -169,7 +169,7 @@ public:
 	}
 
 
-	void destroylist(struct node *h)   //to clear train from it's position after moving
+	void destroylist(struct node *h)   //to clear train from it's position after moving .
 	{
 		struct node *ptr;
 		ptr = h;
