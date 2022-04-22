@@ -234,7 +234,7 @@ public:
 			case 77:if (lflag != 1) { resetflag(); rflag = 1; }        // when press right arrow  moves right
 					break;
 					if (choice == 2) {
-			case 119:if (dflag2 != 1) { resetflag2(); uflag2 = 1; }   // when press "W"  moves up
+			case 119:if (dflag2 != 1) { resetflag2(); uflag2 = 1; }   // when press "W"  moves up.
 					 break;
 			case 115:if (uflag2 != 1) { resetflag2(); dflag2 = 1; }    // when press "S"  moves down
 					 break;
