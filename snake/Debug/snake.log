@@ -1,0 +1,3 @@
+﻿  snake.cpp
+f:\collage\2nd yea 2nd term\embedded systems\game using data structure\snake_game\snake\snake\snake.cpp(35): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  snake.vcxproj -> F:\collage\2nd yea 2nd term\Embedded Systems\game using data structure\snake_game\snake\Debug\snake.exe
