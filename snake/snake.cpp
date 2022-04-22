@@ -20,7 +20,7 @@ class train                     // game functions
 	int x, y, fx, fy, x2, y2, x3, y3;
 	char playername[50], playername2[50];;  // store player name
 
-	struct node               // logic of train by linked list
+	struct node               // logic of train by singly linked list
 	{
 		int nx, ny;
 		struct node *next;
