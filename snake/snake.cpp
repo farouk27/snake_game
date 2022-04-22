@@ -204,7 +204,7 @@ public:
 		rflag = 0;    // right direction
 	}
 
-	void resetflag2()  //start from rest for second train
+	void resetflag2()  //start from rest for second train.
 	{
 		uflag2 = 0;
 		dflag2 = 0;
