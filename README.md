@@ -1,2 +1,2 @@
 # snake_game-
-This game is a collage project applied on make game using data structure (linked list)
+very trivial console app to make a sanke game but we use linked list datastructure in that app 
